@@ -31,7 +31,10 @@ Prometheus · Grafana · cAdvisor
 
 📊 GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=smexhehe&show_icons=true&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smexhehe&layout=compact&hide_border=true" height="165"/> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=smexhehe&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smexhehe&layout=compact&hide_border=true" height="165"/>
+</p>
 
 📫 Connect with me
 
@@ -39,8 +42,8 @@ Prometheus · Grafana · cAdvisor
   <a href="https://github.com/smexhehe">
     <img src="https://img.shields.io/badge/GitHub-smexhehe-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://t.me/@danyaworker">
-    <img src="https://img.shields.io/badge/Telegram-@danyaworker-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/danyaworker">
+    <img src="https://img.shields.io/badge/Telegram-danyaworker-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
