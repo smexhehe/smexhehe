@@ -29,11 +29,11 @@ Monitoring
 
 Prometheus · Grafana · cAdvisor
 
-📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=smexhehe&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smexhehe&layout=compact&hide_border=true" height="165"/>
+  <img src="./profile/stats.svg" height="165"/>
+  <img src="./profile/top-langs.svg" height="165"/>
 </p>
 
 📫 Connect with me
